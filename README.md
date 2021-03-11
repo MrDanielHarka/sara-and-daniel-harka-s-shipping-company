@@ -1,2 +1,2 @@
-# Sara_and_Daniel_Harka-s_Shipping_Company
+# Sara and Daniel Harka's Shipping Company
 A small code about Sara and Daniel Harka's Shipping Company
